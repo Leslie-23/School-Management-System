@@ -13,7 +13,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://paltech-school-management-system.netlify.app/",
+      "https://paltech-school-management-system.netlify.app",
     ],
     credentials: true,
     exposedHeaders: ["X-Total-Count"],

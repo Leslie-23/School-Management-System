@@ -7,6 +7,9 @@
   for = "/*"
   [headers.values]
     Cache-Control = "no-cache, no-store, must-revalidate"
+    Access-Control-Allow-Origin = "https://school-management-system-snowy-six.vercel.app"
+    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+    Access-Control-Allow-Headers = "Content-Type"
 
 [build]
   base = "frontend"
