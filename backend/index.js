@@ -73,7 +73,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "http://localhost:3001", // Allow localhost for development
+      // Allow localhost for development
       "https://paltech-school-management-system.netlify.app", // Allow Netlify frontend
     ],
     credentials: true, // Allow cookies and credentials

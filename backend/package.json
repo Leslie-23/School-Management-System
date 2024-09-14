@@ -1,14 +1,14 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "school management system in JS (node + react)",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
     "build": "npm i",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "leslie paul ajayi",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
