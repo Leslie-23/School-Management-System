@@ -17,7 +17,7 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to
                             <br />
-                            School Management
+                            PAL. School Management
                             <br />
                             System
                         </StyledTitle>
